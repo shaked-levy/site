@@ -1,163 +1,413 @@
-* {
-  box-sizing: border-box;
-}
-body {
-  font-size: 14px;
-}
-.v1_2 {
-  width: 100%;
-  height: 1024px;
-  background: rgba(0,0,0,1);
-  opacity: 1;
-  position: relative;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.name {
-  color: #fff;
-}
-.v2_3 {
-  width: 777px;
-  height: 100%;
-  background: url("../images/v2_3.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: relative;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v19_5 {
-  width: 616px;
-  height: 86px;
-  background: url("../images/v19_5.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 831px;
-  left: 65px;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.10000000149011612);
-  overflow: hidden;
-}
-.v77_43 {
-  width: 319px;
-  height: 45px;
-  background: url("../images/v77_43.png");
-  background-repeat: no-repeat;
-  background-position: center center;
-  background-size: cover;
-  opacity: 1;
-  position: absolute;
-  top: 922px;
-  left: 77px;
-  overflow: hidden;
-}
-.v81_54 {
-  width: 45px;
-  height: 45px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 274px;
-  overflow: hidden;
-}
-.v81_55 {
-  width: 37px;
-  height: 30px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 7px;
-  left: 4px;
-}
-.v77_34 {
-  width: 45px;
-  height: 45px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 203px;
-  overflow: hidden;
-}
-.v77_35 {
-  width: 36px;
-  height: 29px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 7px;
-  left: 4px;
-}
-.v77_41 {
-  width: 45px;
-  height: 45px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 137px;
-  overflow: hidden;
-}
-.v77_42 {
-  width: 17px;
-  height: 33px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 5px;
-  left: 14px;
-}
-.v77_38 {
-  width: 45px;
-  height: 45px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 69px;
-  overflow: hidden;
-}
-.v77_39 {
-  width: 33px;
-  height: 33px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 5px;
-  left: 6px;
-}
-.v77_40 {
-  width: 11px;
-  height: 11px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 16px;
-  left: 17px;
-}
-.v77_36 {
-  width: 45px;
-  height: 45px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 0px;
-  left: 0px;
-  overflow: hidden;
-}
-.v77_37 {
-  width: 32px;
-  height: 37px;
-  background: rgba(255,255,255,1);
-  opacity: 1;
-  position: absolute;
-  top: 3px;
-  left: 6px;
-}
+/* Image 4 Large Component (component) */
+width: 776px;
+height: 590px;
+ 
+/* Image 4 Large (rectangle) */
+width: 776px;
+height: 590px;
+ 
+/* bx-download 2 (frame) */
+width: 60px;
+height: 60px;
+ 
+/* bx-x 2 (frame) */
+width: 60px;
+height: 60px;
+ 
+/* Image 3 Large Component (component) */
+width: 776px;
+height: 590px;
+ 
+/* Image 3 Large (rectangle) */
+width: 776px;
+height: 590px;
+ 
+/* bx-download 2 (frame) */
+width: 60px;
+height: 60px;
+ 
+/* bx-x 2 (frame) */
+width: 60px;
+height: 60px;
+ 
+/* Image 2 Large Component (component) */
+width: 776px;
+height: 590px;
+ 
+/* Image 2 Large (rectangle) */
+width: 776px;
+height: 590px;
+ 
+/* bx-download 1 (frame) */
+width: 60px;
+height: 60px;
+ 
+/* bx-x 1 (frame) */
+width: 60px;
+height: 60px;
+ 
+/* Image 1 Large Component (component) */
+width: 776px;
+height: 590px;
+ 
+/* Image 1 Large (rectangle) */
+width: 776px;
+height: 590px;
+ 
+/* bx-download 1 (frame) */
+width: 60px;
+height: 60px;
+ 
+/* bx-x 1 (frame) */
+width: 60px;
+height: 60px;
+ 
+/* Property 1=Frame 1 (component) */
+width: 122px;
+height: 55px;
+padding: 10px 10px;
+ 
+border: 2px solid #ffffff;
+ 
+/* COPY BIO (text) */
+width: 94px;
+height: 23px;
+ 
+font-family: Helvetica Neue;
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 23px;
+text-align: left;
+ 
+color: #ffffff;
+ 
+/* Property 1=Frame 2 (component) */
+width: 122px;
+height: 55px;
+padding: 10px 10px;
+ 
+background: #ffffff;
+ 
+border: 2px solid #ffffff;
+ 
+/* COPY BIO (text) */
+width: 94px;
+height: 23px;
+ 
+font-family: Helvetica Neue;
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 23px;
+text-align: left;
+ 
+color: #000000;
+ 
+/* Desktop - 1 (frame) */
+width: 1440px;
+height: 1024px;
+ 
+background: #000000;
+ 
+/* Right Side Frame (V) (component) */
+width: 663px;
+height: 1024px;
+ 
+/* Right Side (rectangle) */
+width: 663px;
+height: 2191px;
+ 
+background: #000000;
+ 
+/* BIOGRAPHY (text) */
+width: 341px;
+height: 35px;
+ 
+font-family: Helvetica Neue LT Std;
+font-style: normal;
+font-weight: Unhandled font weight;
+font-size: 35px;
+line-height: 35px;
+text-align: left;
+ 
+color: #ffffff;
+ 
+/* Horizontal Line 1 (rectangle) */
+width: 97px;
+height: 4px;
+ 
+background: #ffffff;
+ 
+border-radius: 6px;
+ 
+/* Bio Text (text) */
+width: 551px;
+height: 183px;
+ 
+font-family: Helvetica Neue;
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 183px;
+text-align: left;
+ 
+color: #ffffff;
+ 
+/* Copy Bio Button Full Component (instance) */
+width: 122px;
+height: 55px;
+padding: 10px 10px;
+ 
+border: 2px solid #ffffff;
+ 
+/* COPY BIO (text) */
+width: 94px;
+height: 23px;
+ 
+font-family: Helvetica Neue;
+font-style: normal;
+font-weight: 700;
+font-size: 19px;
+line-height: 23px;
+text-align: left;
+ 
+color: #ffffff;
+ 
+/* PHOTOS & ARTWORK (text) */
+width: 501px;
+height: 39px;
+ 
+font-family: Helvetica Neue LT Std;
+font-style: normal;
+font-weight: Unhandled font weight;
+font-size: 35px;
+line-height: 39px;
+text-align: left;
+ 
+color: #ffffff;
+ 
+/* Horizontal Line 2 (rectangle) */
+width: 97px;
+height: 4px;
+ 
+background: #ffffff;
+ 
+border-radius: 6px;
+ 
+/* Photos Frame (H) (frame) */
+width: 606px;
+height: 239px;
+ 
+/* Image 1 (rectangle) */
+width: 239px;
+height: 239px;
+ 
+/* Image 2 (rectangle) */
+width: 239px;
+height: 239px;
+ 
+/* Image 3 (rectangle) */
+width: 239px;
+height: 239px;
+ 
+/* Image 4 (rectangle) */
+width: 239px;
+height: 239px;
+ 
+/* Gradient Frame (frame) */
+width: 663px;
+height: 1026px;
+ 
+background: linear-gradient(180deg, #000000 0%, #1b0e2c 7.81%, #b63232 59.9%, #ef9713 84.6%, #dcfff7 100%);
+ 
+/* VIDEOS (text) */
+width: 501px;
+height: 39px;
+ 
+font-family: Helvetica Neue LT Std;
+font-style: normal;
+font-weight: Unhandled font weight;
+font-size: 35px;
+line-height: 39px;
+text-align: left;
+ 
+color: #ffffff;
+ 
+/* Horizontal Line 3 (rectangle) */
+width: 97px;
+height: 4px;
+ 
+background: #ffffff;
+ 
+border-radius: 6px;
+ 
+/* UPCOMING (text) */
+width: 501px;
+height: 39px;
+ 
+font-family: Helvetica Neue LT Std;
+font-style: normal;
+font-weight: Unhandled font weight;
+font-size: 35px;
+line-height: 39px;
+text-align: left;
+ 
+color: #ffffff;
+ 
+/* Horizontal Line 4 (rectangle) */
+width: 97px;
+height: 4px;
+ 
+background: #ffffff;
+ 
+border-radius: 6px;
+ 
+/* Upcoming Text (text) */
+width: 551px;
+height: 183px;
+ 
+font-family: Helvetica Neue;
+font-style: normal;
+font-weight: 500;
+font-size: 21px;
+line-height: 183px;
+text-align: left;
+ 
+color: #ffffff;
+ 
+/* Left Side (rectangle) */
+width: 777px;
+height: 1024px;
+ 
+/* SHAKED LEVY (rectangle) */
+width: 616px;
+height: 86px;
+ 
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+ 
+/* Socials Group (group) */
+width: 319px;
+height: 45px;
+ 
+/* bxs-envelope 1 (frame) */
+width: 45px;
+height: 45px;
+ 
+/* bxl-twitter 1 (frame) */
+width: 45px;
+height: 45px;
+ 
+/* bxl-facebook 1 (frame) */
+width: 45px;
+height: 45px;
+ 
+/* bxl-instagram-alt 1 (frame) */
+width: 45px;
+height: 45px;
+ 
+/* bxl-tiktok 1 (frame) */
+width: 45px;
+height: 45px;
+ 
+/* Height for Letter 1 (rectangle) */
+width: 15px;
+height: 51px;
+ 
+background: #ffffff;
+ 
+/* Rectangle 1 (rectangle) */
+width: 57px;
+height: 7px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 8 (rectangle) */
+width: 57px;
+height: 7px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 2 (rectangle) */
+width: 15px;
+height: 92px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 3 (rectangle) */
+width: 9px;
+height: 25px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 4 (rectangle) */
+width: 5px;
+height: 32px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 13 (rectangle) */
+width: 5px;
+height: 32px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 16 (rectangle) */
+width: 5px;
+height: 32px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 6 (rectangle) */
+width: 5px;
+height: 34px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 9 (rectangle) */
+width: 5px;
+height: 410px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 11 (rectangle) */
+width: 5px;
+height: 93px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 14 (rectangle) */
+width: 5px;
+height: 42px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 15 (rectangle) */
+width: 25px;
+height: 4px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 7 (rectangle) */
+width: 9px;
+height: 16px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 10 (rectangle) */
+width: 9px;
+height: 16px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 11 (rectangle) */
+width: 5px;
+height: 93px;
+ 
+background: #9f9f9f;
+ 
+/* Rectangle 14 (rectangle) */
+width: 5px;
+height: 42px;
+ 
+background: #9f9f9f;
